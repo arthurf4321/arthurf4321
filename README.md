@@ -1,6 +1,6 @@
 <div>
-  <img height="190" width="400" src="https://github-readme-stats.vercel.app/api?username=arthurf4321R&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="190" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurf4321&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href= "https://github.com/arthurf4321">
+    <img height="180em src="https:readme-stats.vercel.app/api?username=arthurf4321&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
