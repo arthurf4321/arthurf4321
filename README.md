@@ -10,15 +10,6 @@
 
 Sou um programador apaixonado por tecnologia e desenvolvimento web. Estou sempre buscando evoluir, praticar e aprender com projetos desafiadores. Atualmente, foco em back-end com PHP, Python e banco de dados MySQL. Curto escrever códigos limpos, funcionais e que realmente resolvam problemas.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurf4321&show_icons=true&theme=dracula&hide_border=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurf4321&layout=compact&theme=dracula&hide_border=false" />
-</p>
----
 
 ## 🧠 Tecnologias que estudo e utilizo
 
