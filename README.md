@@ -14,11 +14,10 @@ Sou um programador apaixonado por tecnologia e desenvolvimento web. Estou sempre
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurf4321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurf4321&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="160" alt="Top Langs" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurf4321&show_icons=true&theme=dracula&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurf4321&layout=compact&theme=dracula&hide_border=false" />
+</p>
 ---
 
 ## 🧠 Tecnologias que estudo e utilizo
@@ -32,6 +31,7 @@ Sou um programador apaixonado por tecnologia e desenvolvimento web. Estou sempre
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
