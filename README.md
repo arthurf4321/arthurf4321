@@ -29,10 +29,10 @@ Sou um programador apaixonado por tecnologia e desenvolvimento web. Estou sempre
 
 ## 🧪 Projetos em destaque
 
-🔹 [Sistema para loja de açaí 🍧 (TCC)](https://github.com/arthurf4321)  
+🔹 [Sistema para loja de açaí 🍧 (TCC)](https://github.com/arthurf4321/ETC_TCC)  
 Sistema web com autenticação de usuários, controle de pedidos, gerenciamento de status e divisão por cargos (caixa, preparador e gerente). Desenvolvido com HTML, CSS, JS, PHP e MySQL.
 
-🔹 [Automação com PyAutoGUI 🤖](https://github.com/arthurf4321)  
+🔹 [Automação com PyAutoGUI 🤖](https://github.com/arthurf4321/auto-database-integration)  
 Projeto de automação de tarefas repetitivas no Windows usando Python e PyAutoGUI, útil para produtividade ou testes.
 
 ---
