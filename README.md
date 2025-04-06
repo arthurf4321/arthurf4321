@@ -49,5 +49,5 @@ Projeto de automação de tarefas repetitivas no Windows usando Python e PyAutoG
 ## 📬 Contato
 
 - 📧 [arthurf43213@gmail.com](mailto:arthurf43213@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/arthurf4321]([https://www.linkedin.com/in/arthurf4321/](https://www.linkedin.com/in/arthur-felipe-882740345/))
+- 💼 [linkedin.com/in/arthurf4321](https://www.linkedin.com/in/arthur-felipe21/)
 
