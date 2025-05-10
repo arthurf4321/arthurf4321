@@ -39,17 +39,9 @@ Solução de automação para tarefas repetitivas no Windows utilizando Python e
 
 ## 📫 Contato
 
-<div align="center">
-  <a href="mailto:arthurf43213@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-felipe21/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/arthurf4321">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+📧 **Email:** [arthurf43213@gmail.com](mailto:arthurf43213@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/arthur-felipe21](https://www.linkedin.com/in/arthur-felipe21/)  
+💻 **GitHub:** [github.com/arthurf4321](https://github.com/arthurf4321)  
 
 <div align="center" style="margin-top:20px">
   <a href="https://github.com/arthurf4321">
