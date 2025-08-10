@@ -4,7 +4,7 @@
 
 - Apaixonado por desenvolvimento web back-end e soluções eficientes.
 - Concluindo o ensino médio e técnico em informática.
-- Focado em ampliar conhecimentos em PHP, MySQL, Python e Java.
+- Focado em ampliar conhecimentos em Java.
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arthurf4321&color=006bed)
