@@ -1,54 +1,41 @@
-<h1 align="center">👨‍💻 Arthur Felipe De Sousa Chaves</h1>
+# 👨‍💻 Arthur Felipe De Sousa Chaves
 
-<p align="center">
-  Desenvolvedor Back-End em formação | PHP • Python • MySQL
-</p>
+## Sobre mim
+
+- Apaixonado por desenvolvimento web back-end e soluções eficientes.
+- Concluindo o ensino médio e técnico em informática.
+- Focado em ampliar conhecimentos em PHP, MySQL, Python e Java.
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=arthurf4321&color=006bed)
+
+## Minhas Skills
+
+**Tecnologias**
+
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=FF6B00)
+
+
+## Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-Arthur%20Felipe-006bed?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-felipe21/)](https://www.linkedin.com/in/arthur-felipe21/)  
+[![Email](https://img.shields.io/badge/-arthurf43213@gmail.com-006bed?style=flat-square&logo=gmail&logoColor=white&link=mailto:arthurf43213@gmail.com)](mailto:arthurf43213@gmail.com)  
+[![GitHub](https://img.shields.io/github/followers/arthurf4321?label=Follow&style=social&logo=github&link=https://github.com/arthurf4321)](https://github.com/arthurf4321)
+
 
 ---
 
-## 👤 Sobre Mim
-
-Programador apaixonado por desenvolvimento web back-end, com foco em criar soluções eficientes usando PHP e MySQL. Estou concluindo o ensino médio e finalizei o curso técnico em informática, atualmente direcionando meus estudos para Java. Comprometido com código limpo e boas práticas de programação.
-
----
-
-## 💻 Tecnologias
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</div>
-
----
-
-## 🚀 Projetos Destacados
-
-**🍧 [Sistema para Loja de Açaí (TCC)](https://github.com/arthurf4321/ETC_TCC)**  
-Sistema web completo com autenticação de usuários, controle de pedidos e gerenciamento por cargos, desenvolvido com PHP, MySQL e JavaScript.
-
-**🤖 [Automação com PyAutoGUI](https://github.com/arthurf4321/auto-database-integration)**  
-Solução de automação para tarefas repetitivas no Windows utilizando Python e PyAutoGUI.
-
----
-
-## 📫 Contato
-
-📧 **Email:** [arthurf43213@gmail.com](mailto:arthurf43213@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/arthur-felipe21](https://www.linkedin.com/in/arthur-felipe21/)  
-💻 **GitHub:** [github.com/arthurf4321](https://github.com/arthurf4321)  
-
-<div align="center" style="margin-top:20px">
-  <a href="https://github.com/arthurf4321">
-    <img src="https://img.shields.io/badge/-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Profile" />
-  </a>
-</div>
-
-<div align="center" style="margin-top:10px">
-  <img src="https://komarev.com/ghpvc/?username=arthurf4321&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-</div>
+Obrigado pela visita! 🚀
