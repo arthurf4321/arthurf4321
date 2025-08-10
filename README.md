@@ -8,7 +8,7 @@
 
 ## 👤 Sobre Mim
 
-Programador apaixonado por desenvolvimento web back-end, com foco em criar soluções eficientes usando PHP, Python e MySQL. Comprometido com código limpo e boas práticas de programação.
+Programador apaixonado por desenvolvimento web back-end, com foco em criar soluções eficientes usando PHP e MySQL. Estou concluindo o ensino médio e finalizei o curso técnico em informática, atualmente direcionando meus estudos para Java. Comprometido com código limpo e boas práticas de programação.
 
 ---
 
