@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- Apaixonado por desenvolvimento web back-end e soluções eficientes.
+- Apaixonado por desenvolvimento back-end e soluções eficientes.
 - Concluindo o ensino médio e técnico em informática.
 - Focado em ampliar conhecimentos em Java.
 <br/>
