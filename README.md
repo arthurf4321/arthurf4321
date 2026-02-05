@@ -2,8 +2,7 @@
 
 ## Sobre mim
 
-- Apaixonado por desenvolvimento back-end e soluções eficientes.
-- Concluindo o ensino médio e técnico em informática.
+- Técnico em informática com foco em programação.
 - Focado em ampliar conhecimentos em Java.
 <br/>
 
@@ -35,6 +34,3 @@
 [![GitHub](https://img.shields.io/github/followers/arthurf4321?label=Follow&style=social&logo=github&link=https://github.com/arthurf4321)](https://github.com/arthurf4321)
 
 
----
-
-Obrigado pela visita! 🚀
