@@ -1,9 +1,9 @@
 # 👨‍💻 Arthur Felipe De Sousa Chaves
 
 ## Sobre mim
-
+- Atualmente estudante de Análise e Desenvolvimento de Sistemas na Unieuro
 - Técnico em informática com foco em programação.
-- Focado em ampliar conhecimentos em Java.
+- Focado em ampliar meus conhecimentos em Java e desenvolvimento Back-End
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arthurf4321&color=006bed)
@@ -12,14 +12,12 @@
 
 **Tecnologias**
 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=ED8B00)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
 
 **Ferramentas de desenvolvimento**
 
