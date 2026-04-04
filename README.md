@@ -13,6 +13,7 @@
 **Tecnologias**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot&logoColor=6DB33F)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
