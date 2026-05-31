@@ -35,10 +35,12 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurf4321&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurf4321&theme=dracula"/>
+
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurf4321&theme=dracula"/>
+
 </div>
 
+<br>
 <br/>
 
 
@@ -47,7 +49,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/arthur-felipe21)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/arthurf4321)
 [![E-mail](https://img.shields.io/badge/-E--mail-333333?style=flat&logo=gmail&logoColor=EA4335)](mailto:arthurf43213@gmail.com)
-
 ---
 
 <div align="center">
